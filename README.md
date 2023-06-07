@@ -1,1 +1,10 @@
+![Screenshot from 2023-06-06 16-39-16](https://github.com/Manjushagahiwade/DjangoBase/assets/92176829/242ac2c5-8b8d-4956-a353-aa837e261117)
+![Screenshot from 2023-06-06 16-33-46](https://github.com/Manjushagahiwade/DjangoBase/assets/92176829/dcc82054-dca5-4483-b347-6a07fb4d9ff5)
+![Screenshot from 2023-06-06 16-33-38](https://github.com/Manjushagahiwade/DjangoBase/assets/92176829/bf62ece1-9b73-4390-8473-bf37de309323)
+![Screenshot from 2023-06-06 16-33-27](https://github.com/Manjushagahiwade/DjangoBase/assets/92176829/2bd2d009-4443-485e-9f6e-bd0500faca7d)
+![Screenshot from 2023-06-06 16-33-19](https://github.com/Manjushagahiwade/DjangoBase/assets/92176829/973be3f8-6125-4a65-bc4f-1cdfbc373b6c)
+![Screenshot from 2023-06-06 16-33-16](https://github.com/Manjushagahiwade/DjangoBase/assets/92176829/475165d8-2e81-4a89-998b-c384ab99fe5a)
+![Screenshot from 2023-06-06 16-32-54](https://github.com/Manjushagahiwade/DjangoBase/assets/92176829/05429df9-9bbc-4bdd-aa85-fc4d95c356e3)
+![Screenshot from 2023-06-06 16-32-40](https://github.com/Manjushagahiwade/DjangoBase/assets/92176829/aff092ca-3909-4f1d-a575-5719b7631317)
+![Screenshot from 2023-06-06 16-32-28](https://github.com/Manjushagahiwade/DjangoBase/assets/92176829/fc8cc35f-23ed-48d9-825e-d9ab023cccb1)
 # DjangoBase
